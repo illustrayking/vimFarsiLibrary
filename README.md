@@ -4,5 +4,6 @@
 
 یادتون باشه این مخزن همیشه در حال آپدیت شدن هست و مطالب در آینده بروزرسانی میشه پس همیشه آپدیت ترین مقاله رو مطالعه کنید
 
-- **[چرا ویم رو به vscode ترجیح دادم](https://virgool.io/@illustrayking/whyichoosedvim-f5kbf8v3r275)** 
+- **[چرا ویم رو به vscode ترجیح دادم](https://virgool.io/@illustrayking/whyichoosedvim-f5kbf8v3r275)**
+- **[روش نصب ویم بر روی تمامی سیستم عامل ها](https://virgool.io/@illustrayking/%D8%B1%D9%88%D8%B4-%D9%86%D8%B5%D8%A8-%D9%88%DB%8C%D9%85-%D8%A8%D8%B1-%D8%B1%D9%88%DB%8C-%D8%AA%D9%85%D8%A7%D9%85%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B9%D8%A7%D9%85%D9%84-%D9%87%D8%A7-xt9ykgwhkxys)**
 </div>
